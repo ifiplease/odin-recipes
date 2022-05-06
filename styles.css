@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(130, 19, 221, 0.377);
+    color: rgb(0, 0, 0);
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    margin: 0;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin:  0 auto;
+    font-weight: lighter;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+a:hover {
+    color: aquamarine;
+}
+img {
+    margin-bottom: 0px;
+    object-fit: scale-down;
+}
+.first {
+    width: 400px;
+    height: 300px;
+}
+.second {
+    height: 400px;
+    float: left;
+    margin-right: 20px;
+}
+p {
+    font-size: 21px;
+    margin-top: 0px;
+}
+.space {
+    margin-top: 150px;
+}
+.space,ul,ol,.space2 {
+    background-color: rgb(107, 107, 107,0.25);
+    padding: 50px;
+    padding-bottom: 20px;
+}
+.shift {
+    clear: both;
+}
+ul {
+    list-style-type: none;
+}
+h2 {
+    margin-left: 10px;
+}
+.third {
+    width: 400px;
+    float: left;
+}
+.space2 {
+    margin-top: 20px;
+}
